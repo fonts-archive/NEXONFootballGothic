@@ -38,8 +38,7 @@ font-face
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NEXONFootballGothic/NEXONFootballGothic-Light.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/NEXONFootballGothic/NEXONFootballGothic-Light.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/NEXONFootballGothic/NEXONFootballGothic-Light.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/NEXONFootballGothic/NEXONFootballGothic-Light.ttf') format('truetype');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NEXONFootballGothic/NEXONFootballGothic-Light.otf') format('opentype');
 }
 @font-face {
     font-family: 'NEXON Football Gothic';
@@ -48,7 +47,6 @@ font-face
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NEXONFootballGothic/NEXONFootballGothic-Bold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/NEXONFootballGothic/NEXONFootballGothic-Bold.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/NEXONFootballGothic/NEXONFootballGothic-Bold.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/NEXONFootballGothic/NEXONFootballGothic-Bold.ttf') format('truetype');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NEXONFootballGothic/NEXONFootballGothic-Bold.otf') format('opentype');
 }
 ```
